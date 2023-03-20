@@ -1,6 +1,6 @@
 # yaho_coding_challenge guide line
 
-* Tutorial:
+I) Tutorial:
 
 - At first time open, app will load page 1 automatically.
 
@@ -14,13 +14,13 @@
 
 - cached_network_image lib is used for cache and show place holder for user's avatar.
 
-* Architect:
+II) Architect:
 
 - This project is using Bloc state management.
 
 - A few test functions is written in "test" file
 
-* Contact:
+III) Contact:
 
 - Name: Nong Kim Cuong
 
