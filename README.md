@@ -2,7 +2,7 @@
 
 I) Tutorial:
 
-- At first time open, app will load page 1 automatically.
+- At first time open, app will load first page automatically.
 
 - Click at bottom-right button to change view mode between ListView and GridView.
 
@@ -10,7 +10,7 @@ I) Tutorial:
 
 - When reach the limit data, widget 'No more data' will show up at the bottom.
 
-- Pull to refresh to refresh data to page 1 only.
+- Pull to refresh to reset data to first page only.
 
 - cached_network_image lib is used for cache and show place holder for user's avatar.
 
